@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.28.0",
+    "axios": "^1.8.2",
     "download": "^8.0.0",
     "scrape-it": "^6.0.1"
   },
